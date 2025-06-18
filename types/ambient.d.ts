@@ -1,0 +1,9 @@
+declare module "react-markdown";
+declare module "remark-gfm";
+declare module "remark-math";
+declare module "rehype-katex";
+declare module "rehype-raw";
+declare module "rehype-highlight";
+declare module "*.css";
+declare module "mermaid";
+declare module "unified";
